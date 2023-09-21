@@ -111,6 +111,7 @@ func main() {
 
 	fmt.Println("Hello git")
 	r.Run(":8080")
+	fmt.Println("Hello git")
 	// reverseLinkedList()
 }
 
