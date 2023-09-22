@@ -108,9 +108,14 @@ func main() {
 	r.GET("/", func(c *gin.Context) {
 		c.String(net.StatusOK, "What a call bro !!!")
 	})
+
+	fmt.Println("Hello git")
 	r.Run(":8080")
+	fmt.Println("Hello git djhfbgj")
 	// reverseLinkedList()
 }
+
+// git@github.com:alok-sonker/golangDS.git
 
 func reverseLinkedList() {
 	fmt.Println("Reverse a linked list")
