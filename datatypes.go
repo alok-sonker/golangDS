@@ -1,5 +1,8 @@
 package main
 
+// Data structure
+type DS struct{}
+
 // LinkedList
 type LinkedList struct {
 	len  int32
