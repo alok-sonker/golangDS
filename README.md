@@ -1,3 +1,4 @@
+***{ Note: Right Now code is tightly coupled , I will decoulpe it as I get time. }***
 # Data Structures using Golang 
 This repository contains implementation of basic Data Structures.
   - Array
@@ -15,9 +16,6 @@ Going forward learn we learn Algoritms and its impelemetation with use cases.
 And also focus on few other important concepts of OS,DBMS,Computer Networking & CI/CD tools (BAZEL , GitHUB , CircleCI , JIRA/Confluence , Docker , Kubernetes , Prometheous ).
 
 For more detail visit [Alok Sonker](http://aloksonker.me)
-
-![CI/CD](https://miro.medium.com/v2/resize:fit:834/1*O76HIkmAb_ackQ94hUHMPw.png)
-
 
 # Algorithm for system design
   - Consistent Hashing
@@ -74,6 +72,8 @@ For more detail visit [Alok Sonker](http://aloksonker.me)
   - CICD (process & tools)
     - Plan  {JIRA, Confluence}
     - Code  {GitHub, GitLab}
+   
+![CI/CD](https://miro.medium.com/v2/resize:fit:834/1*O76HIkmAb_ackQ94hUHMPw.png)
     - Build {Bazel,Gezzle, GitHub Actions}
     - Test  {Mockery, Glue, CircleCI}
     - Release {Jenkins}
