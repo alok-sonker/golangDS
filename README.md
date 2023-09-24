@@ -1,4 +1,4 @@
-***{ \textcolor{blue}{Note: Right Now code is tightly coupled , I will decoulpe it as I get time }}****
+***{ \textcolor{blue}{blue{Note: Right Now code is tightly coupled , I will decoulpe it as I get time }}****
 # Data Structures using Golang 
 This repository contains implementation of basic Data Structures.
   - Array
