@@ -28,3 +28,7 @@ EXPOSE 8080
 USER nonroot:nonroot
 
 CMD ["/docker-gs-ping"]
+
+# docker run -d -p 8080:8080 8dff740e7813
+# dcoker build main
+# docker image ls
