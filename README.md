@@ -58,7 +58,7 @@ For more detail visit [Alok Sonker](http://aloksonker.me)
   - Authorisation vs Authentication
   - Monorepo vs Polyrepo
 
-![Array vs Slice](https://go.dev/blog/slices)
+[Array vs Slice](https://go.dev/blog/slices)
 # Should know for the interview
   - SOLID Principle
   - Dependency Injetion
