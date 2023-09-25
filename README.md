@@ -12,7 +12,7 @@ This repository contains implementation of basic Data Structures.
   - Graph
 
 
-Going forward learn we learn Algoritms and its impelemetation with use cases.
+Going forward we will learn Algoritms and its impelemetation with use cases.
 And also focus on few other important concepts of OS,DBMS,Computer Networking & CI/CD tools (BAZEL , GitHUB , CircleCI , JIRA/Confluence , Docker , Kubernetes , Prometheous ).
 
 For more detail visit [Alok Sonker](http://aloksonker.me)
